@@ -1,3 +1,4 @@
+// EXP40-C: Noncompliant Code Example
 const int **ipp;
 int *ip;
 const int i = 42;
