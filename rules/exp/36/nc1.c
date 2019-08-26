@@ -1,3 +1,4 @@
+// EXP36-C: Noncompliant Code Example
 int *loop_function(void *v_pointer) {
   /* ... */
   return v_pointer;

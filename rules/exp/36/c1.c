@@ -1,3 +1,4 @@
+// EXP36-C: Compliant Solution
 int *loop_function(int *v_pointer) {
   /* ... */
   return v_pointer;

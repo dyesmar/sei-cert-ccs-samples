@@ -1,3 +1,4 @@
+// EXP36-C: Noncompliant Code Example
 #include <assert.h>
   
 void func(void) {
