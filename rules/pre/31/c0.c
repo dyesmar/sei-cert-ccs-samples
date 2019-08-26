@@ -1,3 +1,4 @@
+// PRE31-C: Compliant Solution
 #define ABS(x) (((x) < 0) ? -(x) : (x)) /* UNSAFE */
  
 void func(int n) {

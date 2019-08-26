@@ -1,3 +1,4 @@
+// PRE31-C: Noncompliant Code Example (assert())
 #include <assert.h>
 #include <stddef.h>
   
