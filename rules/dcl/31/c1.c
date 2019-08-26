@@ -1,3 +1,4 @@
+// DCL31-C: Compliant Solution (Implicit Function Declaration)
 #include <stdlib.h>
   
 int main(void) {

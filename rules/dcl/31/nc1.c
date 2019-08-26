@@ -1,3 +1,4 @@
+// DCL31-C: Noncompliant Code Example (Implicit Function Declaration)
 #include <stddef.h>
 /* #include <stdlib.h> is missing */
   

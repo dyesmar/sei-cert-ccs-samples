@@ -1,3 +1,4 @@
+// DCL31-C: Compliant Solution (Implicit Return Type)
 #include <limits.h>
 #include <stdio.h>
  

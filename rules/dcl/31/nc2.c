@@ -1,3 +1,4 @@
+// DCL31-C: Noncompliant Code Example (Implicit Return Type)
 #include <limits.h>
 #include <stdio.h>
   
