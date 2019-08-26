@@ -1,3 +1,4 @@
+// EXP42-C: Compliant Solution
 #include <string.h>
   
 struct s {
