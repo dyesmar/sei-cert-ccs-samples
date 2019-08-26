@@ -1,3 +1,4 @@
+// EXP33-C: Noncompliant Code Example (Uninitialized Local)
 #include <stdio.h>
  
 /* Get username and password from user, return -1 on error */

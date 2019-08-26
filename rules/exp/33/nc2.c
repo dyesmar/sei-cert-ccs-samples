@@ -1,3 +1,4 @@
+// EXP33-C: Noncompliant Code Example (Uninitialized Local)
 #include <stdio.h>
 enum { BUFFERSIZE = 24 }; 
 void report_error(const char *msg) {

@@ -1,3 +1,4 @@
+// EXP33-C: Noncompliant Code Example (realloc())
 #include <stdlib.h>
 #include <stdio.h>
 enum { OLD_SIZE = 10, NEW_SIZE = 20 };

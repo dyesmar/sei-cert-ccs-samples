@@ -1,3 +1,4 @@
+// EXP33-C: Compliant Solution (Return-by-Reference)
 void set_flag(int number, int *sign_flag) {
   if (NULL == sign_flag) {
     return;
