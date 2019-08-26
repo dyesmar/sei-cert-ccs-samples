@@ -1,3 +1,4 @@
+// EXP44-C: Compliant Solution (sizeof)
 #include <stdio.h>
   
 void func(void) {

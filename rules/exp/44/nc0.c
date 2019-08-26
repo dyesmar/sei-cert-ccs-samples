@@ -1,3 +1,4 @@
+// EXP44-C: Noncompliant Code Example (sizeof)
 #include <stdio.h>
   
 void func(void) {

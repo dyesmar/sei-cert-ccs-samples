@@ -1,3 +1,4 @@
+// EXP44-C: Noncompliant Code Example (sizeof, VLA)
 #include <stddef.h>
 #include <stdio.h>
    

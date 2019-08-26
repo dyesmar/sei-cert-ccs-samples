@@ -1,3 +1,4 @@
+// EXP44-C: Compliant Solution (sizeof, VLA)
 #include <stddef.h>
 #include <stdio.h>
    

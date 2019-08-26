@@ -1,3 +1,4 @@
+// EXP44-C: Compliant Solution (_Generic)
 #include <stdio.h>
  
 #define S(val) _Generic(val, int : 2, \

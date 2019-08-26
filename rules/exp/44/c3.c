@@ -1,3 +1,4 @@
+// EXP44-C: Compliant Solution (_Alignof)
 #include <stdio.h>
 void func(void) {
   int val = 0; 

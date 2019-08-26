@@ -1,3 +1,4 @@
+// EXP44-C: Noncompliant Code Example (_Alignof)
 #include <stdio.h>
   
 void func(void) {
