@@ -1,3 +1,4 @@
+// PRE32-C: Noncompliant Code Example
 #include <string.h>
  
 void func(const char *src) {

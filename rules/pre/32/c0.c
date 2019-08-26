@@ -1,3 +1,4 @@
+// PRE32-C: Compliant Solution
 #include <string.h>
 
 void func(const char *src) {
