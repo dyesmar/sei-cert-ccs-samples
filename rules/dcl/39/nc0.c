@@ -1,3 +1,4 @@
+// DCL39-C: Noncompliant Code Example
 #include <stddef.h>
  
 struct test {

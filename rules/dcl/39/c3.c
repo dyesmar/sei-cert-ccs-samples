@@ -1,3 +1,4 @@
+// DCL39-C: Compliant Solution (Structure Packing—Microsoft Visual Studio)
 #include <stddef.h>
  
 #pragma pack(push, 1) /* 1 byte */

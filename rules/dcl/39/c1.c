@@ -1,3 +1,4 @@
+// DCL39-C: Compliant Solution (Padding Bytes)
 #include <assert.h>
 #include <stddef.h>
  

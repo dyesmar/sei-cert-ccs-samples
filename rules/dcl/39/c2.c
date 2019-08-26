@@ -1,3 +1,4 @@
+// DCL39-C: Compliant Solution (Structure Packing—GCC)
 #include <stddef.h>
  
 struct test {

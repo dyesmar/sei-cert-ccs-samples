@@ -1,3 +1,4 @@
+// DCL39-C: Noncompliant Code Example (memset())
 #include <string.h>
  
 struct test {
