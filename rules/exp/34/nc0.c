@@ -1,3 +1,4 @@
+// EXP34-C: Noncompliant Code Example
 #include <png.h> /* From libpng */
 #include <string.h>
   

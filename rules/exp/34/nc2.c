@@ -1,3 +1,4 @@
+// EXP34-C: Noncompliant Code Example
 static unsigned int tun_chr_poll(struct file *file, poll_table *wait)  {
   struct tun_file *tfile = file->private_data;
   struct tun_struct *tun = __tun_get(tfile);

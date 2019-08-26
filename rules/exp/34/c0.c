@@ -1,3 +1,4 @@
+// EXP34-C: Compliant Solution
 #include <png.h> /* From libpng */
 #include <string.h>
  
