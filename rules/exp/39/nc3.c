@@ -1,3 +1,4 @@
+// EXP39-C: Noncompliant Code Example
 enum { ROWS = 10, COLS = 15 };
   
 void func(void) {
