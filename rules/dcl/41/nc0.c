@@ -1,3 +1,4 @@
+// DCL41-C: Noncompliant Code Example
 #include <stdio.h>
   
 extern void f(int i);
