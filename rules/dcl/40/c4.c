@@ -1,3 +1,4 @@
+// DCL40-C: Compliant Solution (Excessively Long Identifiers)
 /* In bashline.h */
 extern char * bash_groupname_completion(const char *, int);  
  

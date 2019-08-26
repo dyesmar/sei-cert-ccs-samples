@@ -1,3 +1,4 @@
+// DCL40-C: Compliant Solution (Incompatible Object Declarations)
 /* In a.c */
 extern int i;  
  

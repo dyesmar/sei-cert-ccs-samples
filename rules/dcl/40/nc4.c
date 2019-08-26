@@ -1,3 +1,4 @@
+// DCL40-C: Noncompliant Code Example (Excessively Long Identifiers)
 /* In bashline.h */
 /* UB 15, UB 31 */
 extern char * bash_groupname_completion_function(const char *, int);

@@ -1,3 +1,4 @@
+// DCL40-C: Noncompliant Code Example (Incompatible Function Declarations)
 /* In a.c */
 extern int f(int a);   /* UB 15 */
  

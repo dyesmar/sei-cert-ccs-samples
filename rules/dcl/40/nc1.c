@@ -1,3 +1,4 @@
+// DCL40-C: Noncompliant Code Example (Incompatible Array Declarations)
 /* In a.c */
 extern int *a;   /* UB 15 */
  

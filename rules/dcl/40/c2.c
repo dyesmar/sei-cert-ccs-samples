@@ -1,3 +1,4 @@
+// DCL40-C: Compliant Solution (Incompatible Function Declarations)
 /* In a.c */
 extern int f(int a);  
  

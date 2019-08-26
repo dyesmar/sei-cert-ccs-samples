@@ -1,3 +1,4 @@
+// DCL40-C: Noncompliant Code Example (Incompatible Object Declarations)
 /* In a.c */
 extern int i;   /* UB 15 */
  

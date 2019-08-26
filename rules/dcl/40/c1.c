@@ -1,3 +1,4 @@
+// DCL40-C: Compliant Solution (Incompatible Array Declarations)
 /* In a.c */
 extern int a[];  
  
