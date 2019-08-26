@@ -1,3 +1,4 @@
+// EXP35-C: Noncompliant Code Example
 #include <stdio.h>
  
 struct X { int a[6]; };

@@ -1,3 +1,4 @@
+// EXP35-C: Compliant Solution
 #include <stdio.h>
  
 struct X { int a[6]; };

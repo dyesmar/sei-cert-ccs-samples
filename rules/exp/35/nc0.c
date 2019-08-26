@@ -1,3 +1,4 @@
+// EXP35-C: Noncompliant Code Example (C99)
 #include <stdio.h>
  
 struct X { char a[8]; };
