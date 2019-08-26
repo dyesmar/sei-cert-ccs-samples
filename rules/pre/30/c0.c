@@ -1,3 +1,4 @@
+// PRE30-C: Compliant Solution
 #define assign(ucn, val) ucn = val
  
 void func(void) {

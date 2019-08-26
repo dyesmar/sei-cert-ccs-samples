@@ -1,3 +1,4 @@
+// PRE30-C: Noncompliant Code Example
 #define assign(uc1, uc2, val) uc1##uc2 = val
 
 void func(void) {
