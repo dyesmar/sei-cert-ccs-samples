@@ -1,3 +1,4 @@
+// DCL36-C: Noncompliant Code Example
 int i1 = 10;         /* Definition, external linkage */
 static int i2 = 20;  /* Definition, internal linkage */
 extern int i3 = 30;  /* Definition, external linkage */
