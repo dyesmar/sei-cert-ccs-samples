@@ -1,3 +1,4 @@
+// DCL38-C: Compliant Solution
 #include <stdlib.h>
   
 struct flexArrayStruct{

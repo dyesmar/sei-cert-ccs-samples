@@ -1,3 +1,4 @@
+// DCL38-C: Noncompliant Code Example
 #include <stdlib.h>
   
 struct flexArrayStruct {
