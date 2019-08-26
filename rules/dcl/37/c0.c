@@ -1,3 +1,4 @@
+// DCL37-C: Compliant Solution (Include Guard)
 #ifndef MY_HEADER_H
 #define MY_HEADER_H
  

@@ -1,3 +1,4 @@
+// DCL37-C: Compliant Solution (File Scope Objects)
 #include <stddef.h>
  
 static const size_t max_limit = 1024;

@@ -1,3 +1,4 @@
+// DCL37-C: Compliant Solution (Identifiers with External Linkage)
 #include <stddef.h>
  
 void *my_malloc(size_t nbytes) {

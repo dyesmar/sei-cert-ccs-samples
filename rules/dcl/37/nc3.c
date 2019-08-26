@@ -1,3 +1,4 @@
+// DCL37-C: Noncompliant Code Example (Identifiers with External Linkage)
 #include <stddef.h>
   
 void *malloc(size_t nbytes) {
