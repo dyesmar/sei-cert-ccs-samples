@@ -1,3 +1,4 @@
+// DCL30-C: Noncompliant Code Example (Output Parameter)
 void squirrel_away(char **ptr_param) {
   char local[10];
   /* Initialize array */

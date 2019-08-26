@@ -1,3 +1,4 @@
+// DCL30-C: Compliant Solution (Output Parameter)
 char local[10];
   
 void squirrel_away(char **ptr_param) {

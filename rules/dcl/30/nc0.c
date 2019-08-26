@@ -1,3 +1,4 @@
+// DCL30-C: Noncompliant Code Example (Differing Storage Durations)
 #include <stdio.h>
   
 const char *p;

@@ -1,3 +1,4 @@
+// DCL30-C: Compliant Solution (Return Values)
 #include <stddef.h>
 void init_array(char *array, size_t len) {
   /* Initialize array */
