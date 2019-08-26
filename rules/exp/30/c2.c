@@ -1,3 +1,4 @@
+// EXP30-C: Compliant Solution
 extern void c(int i, int j);
 int glob;
   

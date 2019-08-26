@@ -1,3 +1,4 @@
+// EXP30-C: Noncompliant Code Example
 extern void c(int i, int j);
 int glob;
   
