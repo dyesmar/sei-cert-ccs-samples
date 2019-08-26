@@ -1,3 +1,4 @@
+// EXP43-C: Noncompliant Code Example
 #include <string.h>
   
 void func(void) {

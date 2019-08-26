@@ -1,3 +1,4 @@
+// EXP43-C: Compliant Solution
 #include <stddef.h>
 void add(size_t n, int *restrict res, const int *restrict lhs,
          const int *restrict rhs) {

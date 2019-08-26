@@ -1,3 +1,4 @@
+// EXP43-C: Noncompliant Code Example
 int *restrict a;
 int *restrict b;
  

@@ -1,3 +1,4 @@
+// EXP43-C: Noncompliant Code Example
 void func(void) {
   int *restrict p1;
   int *restrict q1;

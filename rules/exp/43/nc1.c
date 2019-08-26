@@ -1,3 +1,4 @@
+// EXP43-C: Noncompliant Code Example
 #include <stddef.h>
 void f(size_t n, int *restrict p, const int *restrict q) {
   while (n-- > 0) {

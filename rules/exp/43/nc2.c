@@ -1,3 +1,4 @@
+// EXP43-C: Noncompliant Code Example
 #include <stddef.h>
   
 void add(size_t n, int *restrict res, const int *restrict lhs,

@@ -1,3 +1,4 @@
+// EXP43-C: Compliant Solution 
 void func(void) {
   int *restrict p1;  
   int *restrict q1;
