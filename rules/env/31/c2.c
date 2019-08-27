@@ -1,3 +1,4 @@
+// ENV31-C: Compliant Solution
 #if defined (_POSIX_) || defined (__USE_POSIX)
   extern char **environ;
   #define envp environ
