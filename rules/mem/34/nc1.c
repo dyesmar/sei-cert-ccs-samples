@@ -1,3 +1,4 @@
+// MEM34-C: Noncompliant Code Example (realloc())
 #include <stdlib.h>
   
 enum { BUFSIZE = 256 };
