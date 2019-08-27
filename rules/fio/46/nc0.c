@@ -1,3 +1,4 @@
+// FIO46-C: Noncompliant Code Example
 #include <stdio.h>
   
 int close_stdout(void) {

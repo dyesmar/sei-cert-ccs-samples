@@ -1,3 +1,4 @@
+// FIO46-C: Compliant Solution
 #include <stdio.h>
   
 int close_stdout(void) {
