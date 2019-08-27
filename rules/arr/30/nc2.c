@@ -1,3 +1,4 @@
+// ARR30-C: Noncompliant Code Example (Using Past-the-End Index)
 #include <stdlib.h>
   
 static int *table = NULL;

@@ -1,3 +1,4 @@
+// ARR30-C: Compliant Solution
 HRESULT GetMachineName(
   wchar_t *pwszPath,
   wchar_t wszMachineName[MAX_COMPUTERNAME_LENGTH_FQDN+1])

@@ -1,3 +1,4 @@
+// ARR30-C: Compliant Solution
 #include <stddef.h>
 #define COLS 5
 #define ROWS 7

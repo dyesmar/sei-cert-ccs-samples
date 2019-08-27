@@ -1,3 +1,4 @@
+// ARR30-C: Compliant Solution
 #include <stdlib.h>
   
 struct S {

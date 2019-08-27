@@ -1,3 +1,4 @@
+// ARR30-C: Noncompliant Code Example (Apparently Accessible Out-of-Range Index)
 #include <stddef.h>
 #define COLS 5
 #define ROWS 7

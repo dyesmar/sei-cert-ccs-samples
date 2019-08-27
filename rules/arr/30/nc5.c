@@ -1,3 +1,4 @@
+// ARR30-C: Noncompliant Code Example (Null Pointer Arithmetic)
 #include <string.h>
 #include <stdlib.h>
  

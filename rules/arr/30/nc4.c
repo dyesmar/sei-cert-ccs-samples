@@ -1,3 +1,4 @@
+// ARR30-C: Noncompliant Code Example (Pointer Past Flexible Array Member)
 #include <stdlib.h>
   
 struct S {

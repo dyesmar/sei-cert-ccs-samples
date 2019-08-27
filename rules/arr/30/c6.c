@@ -1,3 +1,4 @@
+// ARR30-C: Compliant Solution  (Null Pointer Arithmetic)
 #include <string.h>
 #include <stdlib.h>
  

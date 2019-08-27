@@ -1,3 +1,4 @@
+// ARR30-C: Compliant Solution
 enum { TABLESIZE = 100 };
  
 static int table[TABLESIZE];
