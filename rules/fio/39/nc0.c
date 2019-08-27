@@ -1,3 +1,4 @@
+// FIO39-C: Noncompliant Code Example
 #include <stdio.h>
   
 enum { BUFFERSIZE = 32 };
