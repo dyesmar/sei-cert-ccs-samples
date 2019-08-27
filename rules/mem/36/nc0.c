@@ -1,3 +1,4 @@
+// MEM36-C: Noncompliant Code Example
 #include <stdlib.h>
   
 void func(void) {
