@@ -1,3 +1,4 @@
+// ENV32-C: Compliant Solution
 #include <stdlib.h>
  
 void exit1(void) {
