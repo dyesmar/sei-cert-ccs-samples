@@ -1,3 +1,4 @@
+// STR37-C: Compliant Solution
 #include <ctype.h>
 #include <string.h>
   
