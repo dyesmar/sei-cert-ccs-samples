@@ -1,3 +1,4 @@
+// FLP34-C: Compliant Solution (Narrowing Conversion)
 #include <float.h>
 #include <math.h>
   

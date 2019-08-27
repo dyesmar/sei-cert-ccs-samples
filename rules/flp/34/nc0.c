@@ -1,3 +1,4 @@
+// FLP34-C: Noncompliant Code Example (float to int)
 void func(float f_a) {
   int i_a;
   
