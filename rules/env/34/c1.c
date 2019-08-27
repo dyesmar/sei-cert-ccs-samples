@@ -1,3 +1,4 @@
+// ENV34-C: Compliant Solution (Annex K)
 #define __STDC_WANT_LIB_EXT1__ 1
 #include <errno.h>
 #include <stdlib.h>
