@@ -1,3 +1,4 @@
+// INT30-C: Compliant Solution
 pen->num_vertices = _cairo_pen_vertices_needed(
   gstate->tolerance, radius, &gstate->ctm
 );
