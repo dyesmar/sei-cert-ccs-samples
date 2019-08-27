@@ -1,3 +1,4 @@
+// STR38-C: Noncompliant Code Example (strlen())
 #include <stdlib.h>
 #include <string.h>
   

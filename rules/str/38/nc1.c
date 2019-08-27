@@ -1,3 +1,4 @@
+// STR38-C: Noncompliant Code Example (Narrow Strings with Wide String Functions)
 #include <wchar.h>
   
 void func(void) {

@@ -1,3 +1,4 @@
+// STR38-C: Compliant Solution
 #include <string.h>
 #include <wchar.h>
   

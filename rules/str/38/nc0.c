@@ -1,3 +1,4 @@
+// STR38-C: Noncompliant Code Example (Wide Strings with Narrow String Functions) 
 #include <stddef.h>
 #include <string.h>
   
