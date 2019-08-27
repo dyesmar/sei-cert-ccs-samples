@@ -1,3 +1,4 @@
+// ARR36-C: Noncompliant Code Example
 #include <stddef.h>
   
 enum { SIZE = 32 };

@@ -1,3 +1,4 @@
+// ARR36-C: Compliant Solution
 #include <stddef.h>
 enum { SIZE = 32 };
   
