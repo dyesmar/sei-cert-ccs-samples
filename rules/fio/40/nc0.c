@@ -1,3 +1,4 @@
+// FIO40-C: Noncompliant Code Example
 #include <stdio.h>
   
 enum { BUFFER_SIZE = 1024 };
