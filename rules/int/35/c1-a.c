@@ -1,3 +1,4 @@
+// INT35-C: Compliant Solution
 #define PRECISION(value)  _Generic(value, \
   unsigned char : 8, \
   unsigned short: 16, \

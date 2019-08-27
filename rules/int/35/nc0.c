@@ -1,3 +1,4 @@
+// INT35-C: Noncompliant Code Example
 #include <limits.h>
   
 unsigned int pow2(unsigned int exp) {
