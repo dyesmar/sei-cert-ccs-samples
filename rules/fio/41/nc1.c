@@ -1,3 +1,4 @@
+// FIO41-C: Noncompliant Code Example (putc())
 #include <stdio.h>
   
 void func(const char *file_name) {

@@ -1,3 +1,4 @@
+// FIO41-C: Compliant Solution (putc())
 #include <stdio.h>
   
 void func(const char *file_name) {
