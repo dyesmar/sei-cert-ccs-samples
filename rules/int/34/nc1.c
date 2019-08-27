@@ -1,3 +1,4 @@
+// INT34-C: Noncompliant Code Example (Left Shift, Signed Type)
 #include <limits.h>
 #include <stddef.h>
 #include <inttypes.h>
