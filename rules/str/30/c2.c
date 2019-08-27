@@ -1,3 +1,4 @@
+// STR30-C: Compliant Solution (Result of strrchr())
 #include <stddef.h>
 #include <stdio.h>
 #include <string.h>

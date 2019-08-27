@@ -1,3 +1,4 @@
+// STR30-C: Noncompliant Code Example (Result of strrchr())
 #include <stdio.h>
 #include <string.h>
   
