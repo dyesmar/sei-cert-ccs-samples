@@ -1,3 +1,4 @@
+// ARR37-C: Noncompliant Code Example
 struct numbers {
   short num_a, num_b, num_c;
 };
