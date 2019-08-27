@@ -1,3 +1,4 @@
+// MEM30-C: Noncompliant Code Example
 void gdClipSetAdd(gdImagePtr im, gdClipRectanglePtr rect) {
   gdClipRectanglePtr more;
   if (im->clip == 0) {

@@ -1,3 +1,4 @@
+// MEM30-C: Compliant Solution
 void gdClipSetAdd(gdImagePtr im, gdClipRectanglePtr rect) {
   gdClipRectanglePtr more;
   if (im->clip == 0) {

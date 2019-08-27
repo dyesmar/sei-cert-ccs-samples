@@ -1,3 +1,4 @@
+// MEM30-C: Compliant Solution
 #include <stdlib.h>
   
 void f(char *c_str1, size_t size) {
