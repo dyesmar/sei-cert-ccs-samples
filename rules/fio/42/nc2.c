@@ -1,3 +1,4 @@
+// FIO42-C: Noncompliant Code Example (POSIX)
 #include <stdio.h>
 #include <fcntl.h>
   

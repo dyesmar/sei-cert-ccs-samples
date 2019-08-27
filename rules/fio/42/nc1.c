@@ -1,3 +1,4 @@
+// FIO42-C: Noncompliant Code Example (exit())
 #include <stdio.h>
 #include <stdlib.h>
    

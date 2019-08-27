@@ -1,3 +1,4 @@
+// FIO42-C: Compliant Solution (exit())
 #include <stdio.h>
 #include <stdlib.h>
  

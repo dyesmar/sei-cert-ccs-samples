@@ -1,3 +1,4 @@
+// FIO42-C: Noncompliant Code Example (Windows)
 #include <Windows.h>
  
 int func(LPCTSTR filename) {

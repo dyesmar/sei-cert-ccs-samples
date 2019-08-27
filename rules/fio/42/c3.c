@@ -1,3 +1,4 @@
+// FIO42-C: Compliant Solution (Windows)
 #include <Windows.h>
   
 int func(LPCTSTR filename) {
