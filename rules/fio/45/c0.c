@@ -1,3 +1,4 @@
+// FIO45-C: Compliant Solution
 #include <stdio.h>
  
 void open_some_file(const char *file) {

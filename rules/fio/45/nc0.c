@@ -1,3 +1,4 @@
+// FIO45-C: Noncompliant Code Example
 #include <stdio.h>
  
 void open_some_file(const char *file) {
