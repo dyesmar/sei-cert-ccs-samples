@@ -1,3 +1,4 @@
+// ENV30-C: Noncompliant Code Example (getenv())
 #include <stdlib.h>
   
 void trstr(char *c_str, char orig, char rep) {
