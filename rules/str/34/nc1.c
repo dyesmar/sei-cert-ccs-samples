@@ -1,3 +1,4 @@
+// STR34-C: Noncompliant Code Example
 static int yy_string_get(void) {
   register unsigned char *c_str;
   register int c;

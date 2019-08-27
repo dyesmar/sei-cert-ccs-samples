@@ -1,3 +1,4 @@
+// STR34-C: Noncompliant Code Example
 #include <limits.h>
 #include <stddef.h>
   

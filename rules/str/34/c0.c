@@ -1,3 +1,4 @@
+// STR34-C: Compliant Solution
 static int yy_string_get(void) {
   register char *c_str;
   register int c;

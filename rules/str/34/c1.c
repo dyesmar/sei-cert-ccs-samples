@@ -1,3 +1,4 @@
+// STR34-C: Compliant Solution
 #include <limits.h>
 #include <stddef.h>
   
