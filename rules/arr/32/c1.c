@@ -1,3 +1,4 @@
+// ARR32-C: Compliant Solution (sizeof)
 #include <stdint.h>
 #include <stdlib.h>
 #include <string.h>

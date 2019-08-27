@@ -1,3 +1,4 @@
+// ARR32-C: Noncompliant Code Example (sizeof)
 #include <stdlib.h>
 #include <string.h>
   

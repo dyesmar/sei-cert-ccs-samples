@@ -1,3 +1,4 @@
+// ARR32-C: Noncompliant Code Example
 #include <stddef.h>
  
 extern void do_work(int *array, size_t size);
