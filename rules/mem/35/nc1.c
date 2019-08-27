@@ -1,3 +1,4 @@
+// MEM35-C: Noncompliant Code Example (Integer)
 #include <stdint.h>
 #include <stdlib.h>
   

@@ -1,3 +1,4 @@
+// MEM35-C: Compliant Solution (Pointer)
 #include <stdlib.h>
 #include <time.h>
   

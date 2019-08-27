@@ -1,3 +1,4 @@
+// MEM35-C: Noncompliant Code Example (Pointer)
 #include <stdlib.h>
 #include <time.h>
   
