@@ -1,3 +1,4 @@
+// EXP47-C: Noncompliant Code Example
 #include <stdarg.h>
   
 void func(const char *cp, ...) {
