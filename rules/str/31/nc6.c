@@ -1,12 +1,6 @@
-#include <stdlib.h>
-#include <string.h>
+#include <stdio.h>
   
-void func(void) {
-  char buff[256];
-  char *editor = getenv("EDITOR");
-  if (editor == NULL) {
-    /* EDITOR environment variable not set */
-  } else {
-    strcpy(buff, editor);
-  }
+void func(const char *name) {
+  char filename[128];
+  sprintf(filename, "%s.txt", name);
 }
