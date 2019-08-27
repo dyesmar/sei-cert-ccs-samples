@@ -1,3 +1,4 @@
+// STR31-C: Noncompliant Code Example (argv)
 #include <string.h>
   
 int main(int argc, char *argv[]) {

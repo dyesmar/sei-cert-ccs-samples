@@ -1,3 +1,4 @@
+// STR31-C: Compliant Solution (Off-by-One Error)
 #include <stddef.h>
   
 void copy(size_t n, char src[n], char dest[n]) {

@@ -1,3 +1,4 @@
+// STR31-C: Noncompliant Code Example (gets())
 #include <stdio.h>
   
 #define BUFFER_SIZE 1024

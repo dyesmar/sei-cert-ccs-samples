@@ -1,3 +1,4 @@
+// STR31-C: Compliant Solution (gets_s())
 #define __STDC_WANT_LIB_EXT1__ 1
 #include <stdio.h>
   

@@ -1,3 +1,4 @@
+// STR31-C: Noncompliant Code Example (getenv())
 #include <stdlib.h>
 #include <string.h>
   

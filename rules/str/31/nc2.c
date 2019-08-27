@@ -1,3 +1,4 @@
+// STR31-C: Noncompliant Code Example (getchar())
 #include <stdio.h>
   
 enum { BUFFERSIZE = 32 };

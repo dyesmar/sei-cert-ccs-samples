@@ -1,3 +1,4 @@
+// STR31-C: Noncompliant Code Example (Off-by-One Error)
 #include <stddef.h>
   
 void copy(size_t n, char src[n], char dest[n]) {

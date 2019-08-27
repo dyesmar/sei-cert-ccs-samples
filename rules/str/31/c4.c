@@ -1,3 +1,4 @@
+// STR31-C: Compliant Solution (getchar())
 #include <stdio.h>
   
 enum { BUFFERSIZE = 32 };

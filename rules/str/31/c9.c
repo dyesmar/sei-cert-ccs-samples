@@ -1,3 +1,4 @@
+// STR31-C: Compliant Solution (getenv())
 #include <stdlib.h>
 #include <string.h>
   

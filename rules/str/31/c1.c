@@ -1,3 +1,4 @@
+// STR31-C: Compliant Solution (fgets())
 #include <stdio.h>
 #include <string.h>
   

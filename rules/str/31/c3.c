@@ -1,3 +1,4 @@
+// STR31-C: Compliant Solution (getline(), POSIX)
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

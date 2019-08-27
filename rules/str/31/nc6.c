@@ -1,3 +1,4 @@
+// STR31-C: Noncompliant Code Example (sprintf())
 #include <stdio.h>
   
 void func(const char *name) {

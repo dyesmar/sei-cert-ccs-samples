@@ -1,3 +1,4 @@
+// STR31-C: Compliant Solution (snprintf())
 #include <stdio.h>
   
 void func(const char *name) {

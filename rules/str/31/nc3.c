@@ -1,3 +1,4 @@
+// STR31-C: Noncompliant Code Example (fscanf())
 #include <stdio.h>
   
 enum { BUF_LENGTH = 1024 };
