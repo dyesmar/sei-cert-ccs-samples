@@ -1,3 +1,4 @@
+// ARR39-C: Noncompliant Code Example
 enum { INTBUFSIZE = 80 };
  
 extern int getdata(void);

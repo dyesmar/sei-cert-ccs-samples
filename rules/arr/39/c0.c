@@ -1,3 +1,4 @@
+// ARR39-C: Compliant Solution
 enum { INTBUFSIZE = 80 };
  
 extern int getdata(void);
