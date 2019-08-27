@@ -1,3 +1,4 @@
+// INT36-C: Noncompliant Code Example
 void func(unsigned int flag) {
   char *ptr;
   /* ... */

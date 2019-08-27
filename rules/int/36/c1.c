@@ -1,3 +1,4 @@
+// INT36-C: Compliant Solution
 struct ptrflag {
   char *pointer;
   unsigned int flag : 9;
