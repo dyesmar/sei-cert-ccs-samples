@@ -1,3 +1,4 @@
+// STR32-C: Compliant Solution (Truncation)
 #include <string.h>
   
 enum { STR_SIZE = 32 };

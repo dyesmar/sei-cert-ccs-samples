@@ -1,3 +1,4 @@
+// STR32-C: Noncompliant Code Example (strncpy())
 #include <string.h>
   
 enum { STR_SIZE = 32 };
