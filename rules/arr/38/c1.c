@@ -1,3 +1,4 @@
+// ARR38-C: Compliant Solution (Pointer + Integer)
 #include <stdlib.h>
 #include <string.h>
   

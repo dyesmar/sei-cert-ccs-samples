@@ -1,3 +1,4 @@
+// ARR38-C: Noncompliant Code Example (Element Count)
 #include <string.h>
 #include <wchar.h>
   

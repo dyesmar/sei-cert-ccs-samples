@@ -1,3 +1,4 @@
+// ARR38-C: Compliant Solution (Pointer + Integer)
 #include <string.h>
   
 void f2(void) {

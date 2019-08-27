@@ -1,3 +1,4 @@
+// ARR38-C: Compliant Solution (Element Count)
 #include <string.h>
 #include <wchar.h>
   

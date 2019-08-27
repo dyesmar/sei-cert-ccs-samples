@@ -1,3 +1,4 @@
+// ARR38-C: Noncompliant Code Example (Pointer + Integer)
 #include <stdlib.h>
 #include <string.h>
   

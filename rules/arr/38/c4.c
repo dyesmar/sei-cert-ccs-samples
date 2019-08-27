@@ -1,3 +1,4 @@
+// ARR38-C: Compliant Solution (One Pointer + Two Integers)
 #include <stdint.h>
 #include <stdio.h>
   

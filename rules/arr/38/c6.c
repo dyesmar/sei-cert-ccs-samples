@@ -1,3 +1,4 @@
+// ARR38-C: Compliant Solution (Heartbleed)
 int dtls1_process_heartbeat(SSL *s) {        
   unsigned char *p = &s->s3->rrec.data[0], *pl;
   unsigned short hbtype;
