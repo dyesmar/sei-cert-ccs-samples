@@ -1,3 +1,4 @@
+// MEM31-C: Compliant Solution
 #include <stdlib.h>
  
 enum { BUFFER_SIZE = 32 };

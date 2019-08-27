@@ -1,3 +1,4 @@
+// MEM31-C: Noncompliant Code Example
 #include <stdlib.h>
   
 enum { BUFFER_SIZE = 32 };
