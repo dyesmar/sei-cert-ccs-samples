@@ -1,3 +1,4 @@
+// FLP32-C: Compliant Solution (sinh(), Range Errors)
 #include <math.h>
 #include <fenv.h>
 #include <errno.h>
