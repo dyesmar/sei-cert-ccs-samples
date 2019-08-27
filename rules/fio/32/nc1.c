@@ -1,3 +1,4 @@
+// FIO32-C: Noncompliant Code Example (Windows)
 #include <Windows.h>
   
 void func(const TCHAR *file_name) {

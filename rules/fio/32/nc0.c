@@ -1,3 +1,4 @@
+// FIO32-C: Noncompliant Code Example
 #include <stdio.h>
   
 void func(const char *file_name) {
