@@ -1,3 +1,4 @@
+// MEM33-C: Compliant Solution (Storage Duration)
 #include <stdlib.h>
   
 struct flex_array_struct {

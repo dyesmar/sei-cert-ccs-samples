@@ -1,3 +1,4 @@
+// MEM33-C: Noncompliant Code Example (Copying)
 #include <stddef.h>
   
 struct flex_array_struct {

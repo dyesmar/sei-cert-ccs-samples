@@ -1,3 +1,4 @@
+// MEM33-C: Compliant Solution (Copying)
 #include <string.h>
   
 struct flex_array_struct {
