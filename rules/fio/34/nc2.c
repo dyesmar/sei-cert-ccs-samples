@@ -1,3 +1,4 @@
+// FIO34-C: Noncompliant Code Example (Wide Characters)
 #include <stddef.h>
 #include <stdio.h>
 #include <wchar.h>

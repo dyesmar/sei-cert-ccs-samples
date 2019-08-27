@@ -1,3 +1,4 @@
+// FIO34-C: Noncompliant Code Example (Nonportable)
 #include <assert.h>
 #include <limits.h>
 #include <stdio.h>
