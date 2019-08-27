@@ -1,3 +1,4 @@
+// INT31-C: Compliant Solution (time_t Return Value)
 #include <time.h>
   
 void func(void) {

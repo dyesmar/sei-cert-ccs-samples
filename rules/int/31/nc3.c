@@ -1,3 +1,4 @@
+// INT31-C: Noncompliant Code Example (Unsigned, Loss of Precision)
 #include <limits.h>
  
 void func(void) {
