@@ -1,3 +1,4 @@
+// FIO30-C: Compliant Solution (fputs())
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

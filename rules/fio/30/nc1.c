@@ -1,3 +1,4 @@
+// FIO30-C: Noncompliant Code Example (POSIX)
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
