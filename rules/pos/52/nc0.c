@@ -1,3 +1,4 @@
+// POS52-C: Noncompliant Code Example
 pthread_mutexattr_t attr;
 pthread_mutex_t mutex;
  

@@ -1,3 +1,4 @@
+// POS52-C: Compliant Solution (Use a Nonblocking Call)
 void thread_foo(void *ptr) {
   uint32_t num;
   int result;
