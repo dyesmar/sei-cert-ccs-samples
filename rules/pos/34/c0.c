@@ -1,3 +1,4 @@
+// POS34-C: Compliant Solution (static)
 int func(const char *var) {
   static char env[1024];
  
