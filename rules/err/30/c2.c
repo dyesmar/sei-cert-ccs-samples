@@ -1,3 +1,4 @@
+// ERR30-C: Compliant Solution (fopen(), POSIX)
 #include <errno.h>
 #include <stdio.h>
   

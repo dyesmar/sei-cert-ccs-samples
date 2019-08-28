@@ -1,3 +1,4 @@
+// ERR30-C: Compliant Solution (fopen(), C)
 #include <stdio.h>
   
 void func(const char *filename) {

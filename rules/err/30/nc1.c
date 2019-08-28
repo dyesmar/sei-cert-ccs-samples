@@ -1,3 +1,4 @@
+// ERR30-C: Noncompliant Code Example (fopen())
 #include <errno.h>
 #include <stdio.h>
   
