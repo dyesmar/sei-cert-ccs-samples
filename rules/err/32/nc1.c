@@ -1,3 +1,4 @@
+// ERR32-C: Noncompliant Code Example (POSIX)
 #include <signal.h>
 #include <stdlib.h>
 #include <errno.h>

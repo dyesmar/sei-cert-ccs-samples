@@ -1,3 +1,4 @@
+// ERR32-C: Compliant Solution (POSIX)
 #include <signal.h>
 #include <stdlib.h>
 #include <errno.h>

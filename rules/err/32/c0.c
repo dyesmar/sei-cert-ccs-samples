@@ -1,3 +1,4 @@
+// ERR32-C: Compliant Solution
 #include <signal.h>
 #include <stdlib.h>
 #include <stdio.h>
