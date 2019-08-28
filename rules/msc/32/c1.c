@@ -1,3 +1,4 @@
+// MSC32-C: Compliant Solution (Windows)
 #include <stdio.h>
 #include <Windows.h>
 #include <Bcrypt.h>
