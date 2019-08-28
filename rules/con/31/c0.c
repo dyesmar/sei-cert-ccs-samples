@@ -1,3 +1,4 @@
+// CON31-C: Compliant Solution
 #include <stdatomic.h>
 #include <stddef.h>
 #include <threads.h>

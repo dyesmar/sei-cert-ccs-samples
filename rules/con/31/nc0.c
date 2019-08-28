@@ -1,3 +1,4 @@
+// CON31-C: Noncompliant Code Example
 #include <stdatomic.h>
 #include <stddef.h>
 #include <threads.h>
