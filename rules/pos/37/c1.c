@@ -1,3 +1,4 @@
+// POS37-C: Compliant Solution
 /* Store the privileged ID for later verification */
 uid_t privid = geteuid();
  
