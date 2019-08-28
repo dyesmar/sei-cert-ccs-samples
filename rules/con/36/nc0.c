@@ -1,3 +1,4 @@
+// CON36-C: Noncompliant Code Example
 #include <stddef.h>
 #include <threads.h>
   
