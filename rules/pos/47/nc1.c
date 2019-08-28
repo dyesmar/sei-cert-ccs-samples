@@ -1,3 +1,4 @@
+// POS47-C: Noncompliant Code Example
 void release_global_lock(void* dummy) {
   int result;
   if ((result = pthread_mutex_unlock(&global_lock)) != 0) {

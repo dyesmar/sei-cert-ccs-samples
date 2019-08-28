@@ -1,3 +1,4 @@
+// POS47-C: Noncompliant Code Example
 volatile int a = 5;
 volatile int b = 10;
  

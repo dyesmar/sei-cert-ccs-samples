@@ -1,3 +1,4 @@
+// POS47-C: Compliant Solution
 void* worker_thread(void* dummy) {
   int c;
   int result;
