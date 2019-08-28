@@ -1,3 +1,4 @@
+// CON30-C: Noncompliant Code Example
 #include <threads.h>
 #include <stdlib.h>
  
