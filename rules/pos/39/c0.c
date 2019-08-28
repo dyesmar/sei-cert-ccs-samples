@@ -1,3 +1,4 @@
+// POS39-C: Compliant Solution
 /* sock is a connected TCP socket */
  
 uint32_t num;

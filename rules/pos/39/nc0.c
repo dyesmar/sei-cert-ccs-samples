@@ -1,3 +1,4 @@
+// POS39-C: Noncompliant Code Example
 /* sock is a connected TCP socket */
  
 uint32_t num;
