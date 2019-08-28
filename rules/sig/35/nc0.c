@@ -1,3 +1,4 @@
+// SIG35-C: Noncompliant Code Example
 #include <errno.h>
 #include <limits.h>
 #include <signal.h>

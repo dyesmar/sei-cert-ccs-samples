@@ -1,3 +1,4 @@
+// SIG35-C: Compliant Solution
 #include <errno.h>
 #include <limits.h>
 #include <signal.h>
