@@ -1,3 +1,4 @@
+// SIG31-C: Compliant Solution (Lock-Free Atomic Access)
 #include <signal.h>
 #include <stdlib.h>
 #include <string.h>

@@ -1,3 +1,4 @@
+// SIG31-C: Compliant Solution (Writing volatile sig_atomic_t)
 #include <signal.h>
 #include <stdlib.h>
 #include <string.h>
