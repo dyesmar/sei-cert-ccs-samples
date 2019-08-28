@@ -1,3 +1,4 @@
+// POS54-C: Noncompliant Code Example (POSIX)
 #include <stdio.h>
 #include <string.h>
   
