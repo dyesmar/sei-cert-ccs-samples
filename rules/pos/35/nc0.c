@@ -1,3 +1,4 @@
+// POS35-C: Noncompliant Code Example
 char *filename = /* file name */;
 char *userbuf = /* user data */;
 unsigned int userlen = /* length of userbuf string */;
