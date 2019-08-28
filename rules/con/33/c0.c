@@ -1,3 +1,4 @@
+// CON33-C: Compliant Solution (Annex K, strerror_s()) 
 #define __STDC_WANT_LIB_EXT1__ 1
 #include <errno.h>
 #include <stdio.h>

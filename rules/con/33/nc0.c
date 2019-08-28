@@ -1,3 +1,4 @@
+// CON33-C: Noncompliant Code Example
 #include <errno.h>
 #include <stdio.h>
 #include <string.h>

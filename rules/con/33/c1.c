@@ -1,3 +1,4 @@
+// CON33-C: Compliant Solution (POSIX, strerror_r())
 #include <errno.h>
 #include <stdio.h>
 #include <string.h>
