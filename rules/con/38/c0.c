@@ -1,3 +1,4 @@
+// CON38-C: Compliant Solution (cnd_broadcast())
 #include <stdio.h>
 #include <threads.h>
  

@@ -1,3 +1,4 @@
+// CON38-C: Compliant Solution (Windows, Condition Variables)
 #include <Windows.h>
 #include <stdio.h>
   

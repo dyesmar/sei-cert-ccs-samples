@@ -1,3 +1,4 @@
+// CON38-C: Noncompliant Code Example (cnd_signal())
 #include <stdio.h>
 #include <threads.h>
  

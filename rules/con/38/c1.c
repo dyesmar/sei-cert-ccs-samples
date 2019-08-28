@@ -1,3 +1,4 @@
+// CON38-C: Compliant Solution (Using cnd_signal() with a Unique Condition Variable per Thread)
 #include <stdio.h>
 #include <threads.h>
  
