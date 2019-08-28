@@ -1,3 +1,4 @@
+// MSC40-C: Noncompliant Code Example (Inline, Modifiable static)
 /* file2.c */
  
 /* Inline definition of get_random function */

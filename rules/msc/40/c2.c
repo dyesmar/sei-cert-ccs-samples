@@ -1,3 +1,4 @@
+// MSC40-C: Compliant Solution (Inline, Modifiable static)
 /* file2.c */
  
 /* Static inline definition of get_random function */
