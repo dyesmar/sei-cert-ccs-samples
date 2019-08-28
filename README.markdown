@@ -1,6 +1,8 @@
 # SEI CERT C Coding Standard samples
 
-This repo contains unaltered copies of all sample code from the _rules_ outlined in the [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard). Sample code for the standard's various _recommendations_ have not been included and there is no outstanding plan to do so. These source code files are not guaranteed to compile cleanly, or even at all. They are meant for use in gauging the effectiveness of static analyzers against CERT's rules for the C programming language.
+This repo contains unaltered\* copies of all sample code from the _rules_ outlined in the [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard). Sample code for the standard's various _recommendations_ have not been included and there is no outstanding plan to do so. These source code files are not guaranteed to compile cleanly, or even at all. They are meant for use in gauging the effectiveness of static analyzers against CERT's rules for the C programming language.
+
+\* A single, one-line comment has been added to the top of each code sample to help associate it with its parent rule and, if available, provide some context.
 
 ## Nomenclature
 
@@ -13,4 +15,4 @@ Code samples follow an origin 0 numbering scheme, _e.g._, the first non-complian
 
 ## Legal statement
 
-All of the C source code files in the `rules` directory have been copied directly from the SEI CERT C Coding Standard. No alterations of any kind have been made. Accordingly, all of these source files are _Copyright © Carnegie Mellon University. All Rights Reserved._
+All of the C source code files in the `rules` directory have been copied directly from the SEI CERT C Coding Standard. Accordingly, all of these source files are _Copyright © Carnegie Mellon University. All Rights Reserved._
