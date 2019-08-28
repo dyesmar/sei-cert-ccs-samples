@@ -1,3 +1,4 @@
+// POS30-C: Noncompliant Code Example
 long symlink_max;
 size_t bufsize;
 char *buf;

@@ -1,3 +1,4 @@
+// POS30-C: Compliant Solution
 enum { BUFFERSIZE = 1024 };
 char buf[BUFFERSIZE];
 ssize_t len = readlink("/usr/bin/perl", buf, sizeof(buf)-1);
