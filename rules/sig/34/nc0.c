@@ -1,3 +1,4 @@
+// SIG34-C: Noncompliant Code Example (POSIX)
 #include <signal.h>
   
 void handler(int signum) {

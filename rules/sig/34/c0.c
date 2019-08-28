@@ -1,3 +1,4 @@
+// SIG34-C: Compliant Solution (POSIX)
 #include <signal.h>
   
 void handler(int signum) {
