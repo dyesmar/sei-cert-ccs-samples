@@ -1,3 +1,4 @@
+// POS36-C: Compliant Solution
 /*  Drop superuser privileges in correct order */
  
 if (setgid(getgid()) == -1) {

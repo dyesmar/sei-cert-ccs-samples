@@ -1,3 +1,4 @@
+// POS36-C: Noncompliant Code Example
 /* Drop superuser privileges in incorrect order */
  
 if (setuid(getuid()) == -1) {
