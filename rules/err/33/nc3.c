@@ -1,3 +1,4 @@
+// ERR33-C: Noncompliant Code Example (fseek())
 #include <stdio.h>
   
 size_t read_at(FILE *file, long offset,

@@ -1,3 +1,4 @@
+// ERR33-C: Compliant Solution (snprintf())
 #include <stdio.h>
 #include <string.h>
   

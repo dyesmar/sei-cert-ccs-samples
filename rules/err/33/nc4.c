@@ -1,3 +1,4 @@
+// ERR33-C: Noncompliant Code Example (snprintf())
 #include <stdio.h>
   
 extern void log_message(const char *);

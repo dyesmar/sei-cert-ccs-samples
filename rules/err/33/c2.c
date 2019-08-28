@@ -1,3 +1,4 @@
+// ERR33-C: Compliant Solution (realloc())
 #include <stdlib.h>
   
 void *p;

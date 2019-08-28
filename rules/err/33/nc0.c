@@ -1,3 +1,4 @@
+// ERR33-C: Noncompliant Code Example (setlocale())
 #include <locale.h>
 #include <stdlib.h>
   
