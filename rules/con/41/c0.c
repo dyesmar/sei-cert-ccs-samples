@@ -1,3 +1,4 @@
+// CON41-C: Compliant Solution (atomic_compare_exchange_weak())
 #include <stdatomic.h>
 #include <stdbool.h>
 #include <stddef.h>
