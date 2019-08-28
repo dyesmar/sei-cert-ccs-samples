@@ -1,3 +1,4 @@
+// POS38-C: Compliant Solution
 char c;
  
 pid_t pid;

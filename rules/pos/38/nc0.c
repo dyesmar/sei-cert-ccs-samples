@@ -1,3 +1,4 @@
+// POS38-C: Noncompliant Code Example
 char c;
 pid_t pid;
  
