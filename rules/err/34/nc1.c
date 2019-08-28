@@ -1,3 +1,4 @@
+// ERR34-C: Noncompliant Example (sscanf())
 #include <stdio.h>
   
 void func(const char *buff) {

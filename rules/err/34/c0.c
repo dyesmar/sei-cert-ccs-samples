@@ -1,3 +1,4 @@
+// ERR34-C: Compliant Solution (strtol())
 #include <errno.h>
 #include <limits.h>
 #include <stdlib.h>

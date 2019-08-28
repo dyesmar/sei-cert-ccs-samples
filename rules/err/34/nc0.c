@@ -1,3 +1,4 @@
+// ERR34-C: Noncompliant Code Example (atoi())
 #include <stdlib.h>
   
 void func(const char *buff) {
