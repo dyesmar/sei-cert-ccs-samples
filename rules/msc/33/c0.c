@@ -1,3 +1,4 @@
+// MSC33-C: Compliant Solution (strftime())
 #include <time.h>
  
 enum { maxsize = 26 };
