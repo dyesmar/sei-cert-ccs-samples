@@ -1,3 +1,4 @@
+// CON32-C: Compliant Solution (Bit-field, C11, Mutex)
 #include <threads.h>
   
 struct multi_threaded_flags {

@@ -1,3 +1,4 @@
+// CON32-C: Compliant Solution (C11)
 struct multi_threaded_flags {
   unsigned char flag1;
   unsigned char flag2;
