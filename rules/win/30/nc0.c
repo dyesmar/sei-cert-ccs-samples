@@ -1,3 +1,4 @@
+// WIN30-C: Noncompliant Code Example
 LPTSTR buf;
 DWORD n = FormatMessage(FORMAT_MESSAGE_ALLOCATE_BUFFER |
                         FORMAT_MESSAGE_FROM_SYSTEM |

@@ -1,3 +1,4 @@
+// WIN30-C: Compliant Solution
 LPTSTR buf;
 DWORD n = FormatMessage(FORMAT_MESSAGE_ALLOCATE_BUFFER |
                         FORMAT_MESSAGE_FROM_SYSTEM |
