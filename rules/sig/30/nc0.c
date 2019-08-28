@@ -1,3 +1,4 @@
+// SIG30-C: Noncompliant Code Example
 #include <signal.h>
 #include <stdio.h>
 #include <stdlib.h>

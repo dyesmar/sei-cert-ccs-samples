@@ -1,3 +1,4 @@
+// SIG30-C: Noncompliant Code Example (longjmp())
 #include <setjmp.h>
 #include <signal.h>
 #include <stdlib.h>

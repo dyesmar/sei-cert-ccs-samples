@@ -1,3 +1,4 @@
+// SIG30-C: Noncompliant Code Example (raise())
 #include <signal.h>
 #include <stdlib.h>
   

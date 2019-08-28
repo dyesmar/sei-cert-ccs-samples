@@ -1,3 +1,4 @@
+// SIG30-C: Compliant Solution
 #include <signal.h>
 #include <stdlib.h>
  
