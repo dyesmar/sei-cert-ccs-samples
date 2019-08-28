@@ -1,3 +1,4 @@
+// POS44-C: Compliant Solution
 void func(void *foo) {
   /* Execution of thread */
 }

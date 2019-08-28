@@ -1,3 +1,4 @@
+// POS44-C: Noncompliant Code Example
 void func(void *foo) {
   /* Execution of thread */
 }
