@@ -1,3 +1,4 @@
+// POS53-C: Noncompliant Code Example
 #include <stdio.h>
 #include <string.h>
 #include <pthread.h>
