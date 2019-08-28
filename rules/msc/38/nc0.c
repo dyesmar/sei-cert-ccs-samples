@@ -1,3 +1,4 @@
+// MSC38-C: Noncompliant Code Example (assert)
 #include <assert.h>
   
 typedef void (*handler_type)(int);

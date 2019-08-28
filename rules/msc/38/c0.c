@@ -1,3 +1,4 @@
+// MSC38-C: Compliant Solution (assert)
 #include <assert.h>
   
 typedef void (*handler_type)(int);
