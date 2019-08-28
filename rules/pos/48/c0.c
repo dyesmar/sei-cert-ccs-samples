@@ -1,3 +1,4 @@
+// POS48-C: Compliant Solution
 mutex_t theLock;
 int data;
  

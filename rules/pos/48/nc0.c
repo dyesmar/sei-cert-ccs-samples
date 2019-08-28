@@ -1,3 +1,4 @@
+// POS48-C: Noncompliant Code Example
 pthread_mutex_t theLock;
 int data;
  
