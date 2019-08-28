@@ -1,3 +1,4 @@
+// CON43-C: Noncompliant Code Example
 static volatile int account_balance;
  
 void debit(int amount) {

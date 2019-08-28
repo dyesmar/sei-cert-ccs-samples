@@ -1,3 +1,4 @@
+// CON43-C: Noncompliant Code Example (Double-Fetch)
 #include <stdio.h>
   
 void doStuff(int *ps) {

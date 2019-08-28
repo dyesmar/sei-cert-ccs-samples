@@ -1,3 +1,4 @@
+// CON43-C: Noncompliant Code Example (Volatile)
 #include <stdio.h>
   
 void doStuff(volatile int *ps) {

@@ -1,3 +1,4 @@
+// CON43-C: Compliant Solution (C11, Atomic)
 #include <stdio.h>
 #include <stdatomic.h>
   

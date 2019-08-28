@@ -1,3 +1,4 @@
+// CON43-C: Compliant Solution (Mutex)
 #include <threads.h>
  
 static int account_balance;

@@ -1,3 +1,4 @@
+// CON43-C: Compliant Solution (Atomic)
 #include <stdatomic.h>
  
 atomic_int account_balance;

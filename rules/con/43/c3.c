@@ -1,3 +1,4 @@
+// CON43-C: Compliant Solution (C11, Fences)
 #include <stdio.h>
 #include <stdatomic.h>
   
