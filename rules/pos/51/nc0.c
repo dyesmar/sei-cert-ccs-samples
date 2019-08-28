@@ -1,3 +1,4 @@
+// POS51-C: Noncompliant Code Example
 typedef struct {
   int balance;
   pthread_mutex_t balance_mutex;
