@@ -1,3 +1,4 @@
+// POS49-C: Compliant Solution (Bit-field)
 struct multi_threaded_flags {
   volatile unsigned int flag1 : 2;
   volatile unsigned int flag2 : 2;
