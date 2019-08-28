@@ -1,3 +1,4 @@
+// CON34-C: Compliant Solution (Allocated Storage Duration)
 #include <threads.h>
 #include <stdio.h>
 #include <stdlib.h>

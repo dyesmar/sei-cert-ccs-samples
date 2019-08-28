@@ -1,3 +1,4 @@
+// CON34-C: Noncompliant Code Example (Automatic Storage Duration)
 #include <threads.h>
 #include <stdio.h>
  

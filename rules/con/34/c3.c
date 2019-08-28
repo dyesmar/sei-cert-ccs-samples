@@ -1,3 +1,4 @@
+// CON34-C: Compliant Solution (Thread-Local Storage, Windows, Visual Studio)
 #include <Windows.h>
 #include <stdio.h>
  

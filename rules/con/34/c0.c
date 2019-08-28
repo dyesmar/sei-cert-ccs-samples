@@ -1,3 +1,4 @@
+// CON34-C: Compliant Solution (Static Storage Duration)
 #include <threads.h>
 #include <stdio.h>
  

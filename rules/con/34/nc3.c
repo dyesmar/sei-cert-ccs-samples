@@ -1,3 +1,4 @@
+// CON34-C: Noncompliant Code Example (OpenMP, parallel)
 #include <omp.h>
 #include <stdio.h>
   

@@ -1,3 +1,4 @@
+// CON34-C: Noncompliant Code Example (Thread-Specific Storage)
 #include <threads.h>
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,3 +1,4 @@
+// CON34-C: Compliant Solution (OpenMP, parallel, private)
 #include <omp.h>
 #include <stdio.h>
  
