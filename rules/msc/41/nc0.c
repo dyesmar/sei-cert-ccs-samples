@@ -1,3 +1,4 @@
+// MSC41-C: Noncompliant Code Example (Hard-Coded Database Password)
 /* Returns nonzero if authenticated */
 int authenticate(const char* code);
  
