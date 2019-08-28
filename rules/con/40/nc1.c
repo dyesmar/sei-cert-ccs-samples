@@ -1,3 +1,4 @@
+// CON40-C: Noncompliant Code Example
 #include <stdatomic.h>
  
 atomic_int n = ATOMIC_VAR_INIT(0);

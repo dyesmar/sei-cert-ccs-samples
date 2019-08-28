@@ -1,3 +1,4 @@
+// CON40-C: Noncompliant Code Example (atomic_bool)
 #include <stdatomic.h>
 #include <stdbool.h>
    

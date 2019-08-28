@@ -1,3 +1,4 @@
+// CON40-C: Compliant Solution (Compound Assignment)
 #include <stdatomic.h>
 #include <stdbool.h>
    
