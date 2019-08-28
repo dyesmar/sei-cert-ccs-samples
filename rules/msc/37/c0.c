@@ -1,3 +1,4 @@
+// MSC37-C: Compliant Solution
 #include <string.h>
 #include <stdio.h>
   

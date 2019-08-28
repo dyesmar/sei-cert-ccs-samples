@@ -1,3 +1,4 @@
+// MSC37-C: Noncompliant Code Example
 #include <string.h>
 #include <stdio.h>
   

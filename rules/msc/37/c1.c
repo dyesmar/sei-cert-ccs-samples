@@ -1,3 +1,4 @@
+// MSC37-C: Compliant Solution
 #include <stddef.h>
   
 int getlen(const int *input, size_t maxlen, int delim,

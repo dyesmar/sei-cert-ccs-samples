@@ -1,3 +1,4 @@
+// MSC37-C: Noncompliant Code Example
 #include <stddef.h>
   
 size_t getlen(const int *input, size_t maxlen, int delim) {
