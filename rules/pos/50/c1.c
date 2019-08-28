@@ -1,3 +1,4 @@
+// POS50-C: Compliant Solution (Static Storage)
 /* Declare val as a global static variable */
 int val;
  

@@ -1,3 +1,4 @@
+// POS50-C: Noncompliant Code Example (Automatic Storage)
 void *childThread(void *val) {
   /*
    * Depending on the order of thread execution, the object

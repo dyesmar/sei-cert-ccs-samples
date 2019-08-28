@@ -1,3 +1,4 @@
+// POS50-C: Compliant Solution (Thread-Local Storage)
 /* Declare val as a thread-local value */
 __thread int val;
  
